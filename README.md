@@ -2,8 +2,8 @@
 
 ## Environments
 
-- Preview: https://main--xsc-wknd-commerce--jihuang-adobe.aem.page/
-- Live: https://main--xsc-wknd-commerce--jihuang-adobe.aem.live/
+- Preview: https://main--xsc-wknd-commerce--jihuang-adobe.hlx.page/
+- Live: https://main--xsc-wknd-commerce--jihuang-adobe.hlx.live/
 
 ## Pre-requisites
 
